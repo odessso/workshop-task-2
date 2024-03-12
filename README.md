@@ -2,6 +2,8 @@
 
 Here is the URL for the webpage of this project: https://odessso.github.io/workshop-task-2/
 
+NOTE: please also see second version of this code exploring a different idea using monochrome boxes and mousePress: https://odessso.github.io/test_workshop_2_reposit2/
+
 ## Task Description:
 
 Experiment with using an IDE (VScode). Make a p5.js sketch using the setTimeout and setInterval functions.
