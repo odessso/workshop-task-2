@@ -4,7 +4,7 @@ let countInterval = setInterval(makeRandomSquare, 1);
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(0);
+  background(1);
 }
 
 function mousePressed(){
